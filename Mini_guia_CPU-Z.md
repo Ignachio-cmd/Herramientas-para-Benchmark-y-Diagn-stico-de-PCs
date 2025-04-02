@@ -20,10 +20,13 @@ CPU-Z es una herramienta gratuita que proporciona información detallada sobre t
    
    1. ![Paso1](./Imgs/imgCPU-Z/inst1.png)
       Aceptamos y siguiente.
+
    2. ![Paso2](./Imgs/imgCPU-Z/inst2.png)
       Elegimos la carpeta donde se va a almacenar el programa
+
    3. ![Paso3](./Imgs/imgCPU-Z/inst3.png)
       Siguiente.
+      
    4. ![Paso4](./Imgs/imgCPU-Z/inst4.png)
       Por último instalamos
 
@@ -46,7 +49,7 @@ CPU-Z es una herramienta gratuita que proporciona información detallada sobre t
 
    · En la pestaña graphics puedes ver informacion sobre tu tarjeta grafica.
    ![Uso5](./Imgs/imgCPU-Z/uso5.png)
-   
+
    ·La pestaña "Bench" de CPU-Z sirve para evaluar el rendimiento del procesador, permitiendo pruebas de un solo núcleo y multi núcleo, comparaciones con referencias y pruebas de estrés para verificar la estabilidad de la CPU.
    ![Uso6](./Imgs/imgCPU-Z/uso6.png)
 
