@@ -9,11 +9,8 @@ Veremos como instalar dichas aplicaciones y un tutorial sencillo de como usarlas
 
 En mi caso voy a elegir:
 
-👀️ CPU-Z
-
-👀️ GPU-Z
-
-👀️ CrystalDiskMark
-
-👀️ Speccy
+* CPU-Z
+* GPU-Z
+* CrystalDiskMark
+* Speccy
 
