@@ -16,6 +16,7 @@ CPU-Z es una herramienta gratuita que proporciona información detallada sobre t
    **Instalación:**
    
    · Ejecuta el archivo descargado.
+   
    · Procedemos con la instalacion:
    
    1. ![Paso1](./Imgs/imgCPU-Z/inst1.png)
@@ -31,7 +32,7 @@ CPU-Z es una herramienta gratuita que proporciona información detallada sobre t
       Siguiente.
 
    4. ![Paso4](./Imgs/imgCPU-Z/inst4.png)
-   
+
       Por último instalamos
 
 ### Uso Básico
