@@ -36,12 +36,17 @@ CPU-Z es una herramienta gratuita que proporciona información detallada sobre t
    
    · La interfaz principal muestra información sobre tu CPU, incluyendo modelo, fabricante, velocidad y caché.
    ![Uso1](./Imgs/imgCPU-Z/uso1.png)
+
    · Puedes navegar por las pestañas "Mainboard", "Memory" y "SPD" para obtener información sobre la placa base y la memoria RAM.
    ![Uso2](./Imgs/imgCPU-Z/uso2.png)
+
    ![Uso3](./Imgs/imgCPU-Z/uso3.png)
+
    ![Uso4](./Imgs/imgCPU-Z/uso4.png)
+
    · En la pestaña graphics puedes ver informacion sobre tu tarjeta grafica.
    ![Uso5](./Imgs/imgCPU-Z/uso5.png)
+   
    ·La pestaña "Bench" de CPU-Z sirve para evaluar el rendimiento del procesador, permitiendo pruebas de un solo núcleo y multi núcleo, comparaciones con referencias y pruebas de estrés para verificar la estabilidad de la CPU.
    ![Uso6](./Imgs/imgCPU-Z/uso6.png)
 
