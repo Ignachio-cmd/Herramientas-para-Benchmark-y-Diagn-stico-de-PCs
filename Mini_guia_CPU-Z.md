@@ -9,6 +9,7 @@ CPU-Z es una herramienta gratuita que proporciona información detallada sobre t
 ### Descarga e Instalación
 
 1. **Descarga:**
+
    · Vamos a la pagina principal: [Link de descarga](https://www.cpuid.com/downloads/cpu-z/cpu-z_2.15-en.exe)
    ![PaginaDescarga](./Imgs/imgCPU-Z/pagD.png)
    · Hacemos click en dowload now!
@@ -16,7 +17,7 @@ CPU-Z es una herramienta gratuita que proporciona información detallada sobre t
    **Instalación:**
    
    · Ejecuta el archivo descargado.
-   
+
    · Procedemos con la instalacion:
    
    1. ![Paso1](./Imgs/imgCPU-Z/inst1.png)
