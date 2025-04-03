@@ -26,11 +26,11 @@ CrystalDiskMark es una herramienta gratuita que mide el rendimiento de tus disco
 
 1. **Ejecución:**
    
-   * Abre CrystalDiskMark desde el menú de inicio.
+   * Abrimos CrystalDiskMark desde el menú de inicio.
 2. **Interfaz:**
    
-   * Selecciona la unidad que deseas probar.
-   * Haz clic en "All" para ejecutar todas las pruebas.
+   * Seleccionamos la unidad que deseamos probar.
+   * Hacemos clic en "All" para ejecutar todas las pruebas.
 
      ![acuerdoLicencia](./Imgs/imgCrystalDiskMark/uso1.png)
      Yo solo tengo una unidad por ello no me salen mas para seleccionar.
