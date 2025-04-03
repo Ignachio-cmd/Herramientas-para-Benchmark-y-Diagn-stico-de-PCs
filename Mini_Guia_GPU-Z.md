@@ -16,18 +16,18 @@ GPU-Z es una herramienta gratuita que proporciona información detallada sobre t
      ![BotonDescarga](./Imgs/imgGPU-Z/dow1.png)
    * Eligimos el servidor mas cercano para una descarga lo mas rapida posible.
      
-     ![BotonDescarga](./Imgs/imgGPU-Z/dow2.png)
+     ![Server](./Imgs/imgGPU-Z/dow2.png)
 2. **Instalación:**
    
    * Ejecutamos el archivo descargado.
      
-     ![BotonDescarga](./Imgs/imgGPU-Z/inst1.png)
+     ![ArchivoDesc](./Imgs/imgGPU-Z/inst1.png)
      
      Aqui marcamos Yes.
    * Seguimos las instrucciones del asistente de instalación.
    * Aceptamos el acuerdo de licencia y elegimos la ubicación de  instalación.
      
-     ![BotonDescarga](./Imgs/imgGPU-Z/inst2.png)
+     ![Ubicacion](./Imgs/imgGPU-Z/inst2.png)
    * Y por último hacemos clic en "Install" para completar la instalación.
 
 ### Uso Básico
@@ -39,16 +39,16 @@ GPU-Z es una herramienta gratuita que proporciona información detallada sobre t
    
    * La interfaz principal muestra información sobre tu GPU, incluyendo modelo, fabricante, memoria y sensores.
      
-     ![BotonDescarga](./Imgs/imgGPU-Z/uso1.png)
+     ![InterfazP](./Imgs/imgGPU-Z/uso1.png)
    * La pestaña "Sensors" muestra las temperaturas y frecuencias de la GPU en tiempo real.
      
-     ![BotonDescarga](./Imgs/imgGPU-Z/uso2.png)
+     ![Sensors](./Imgs/imgGPU-Z/uso2.png)
    * La pestaña "Advanced" nos ofrece información técnica detallada sobre la tarjeta gráfica, incluyendo detalles del controlador, rutas de registro, límites de temperatura, soporte de memoria ECC y otras especificaciones avanzadas, destinada principalmente a usuarios con conocimientos técnicos profundos que necesitan diagnósticos y soluciones de problemas detallados.
      
-     ![BotonDescarga](./Imgs/imgGPU-Z/uso3.png)
+     ![Advanced](./Imgs/imgGPU-Z/uso3.png)
    * Por último la pestaña "Validation" nos permite enviar y validar la información de tu tarjeta gráfica a la base de datos de TechPowerUp, facilitando la compartición de especificaciones y resultados con otros usuarios, así como la posibilidad de reportar errores a los desarrolladores para mejorar la herramienta.
    
-     ![BotonDescarga](./Imgs/imgGPU-Z/uso4.png)
+     ![Validation](./Imgs/imgGPU-Z/uso4.png)
 
    ## Conclusion:
    
