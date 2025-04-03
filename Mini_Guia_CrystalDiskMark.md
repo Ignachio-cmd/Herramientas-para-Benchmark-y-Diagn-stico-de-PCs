@@ -1,5 +1,7 @@
 ## Mini guía: CrystalDiskMark
 
+![uso](./Imgs/imgCrystalDiskMark/logo.png)
+
 ### Introducción
 
 CrystalDiskMark es una herramienta gratuita que mide el rendimiento de tus discos duros y unidades SSD. Es útil para verificar si tus unidades de almacenamiento están funcionando a su velocidad óptima.
@@ -32,7 +34,7 @@ CrystalDiskMark es una herramienta gratuita que mide el rendimiento de tus disco
    * Seleccionamos la unidad que deseamos probar.
    * Hacemos clic en "All" para ejecutar todas las pruebas.
 
-     ![acuerdoLicencia](./Imgs/imgCrystalDiskMark/uso1.png)
+     ![uso](./Imgs/imgCrystalDiskMark/uso1.png)
      Yo solo tengo una unidad por ello no me salen mas para seleccionar.
 
      ## Conclusion:
