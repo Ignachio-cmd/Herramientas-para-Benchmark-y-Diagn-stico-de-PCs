@@ -48,7 +48,7 @@ GPU-Z es una herramienta gratuita que proporciona información detallada sobre t
      ![BotonDescarga](./Imgs/imgGPU-Z/uso3.png)
    * Por último la pestaña "Validation" nos permite enviar y validar la información de tu tarjeta gráfica a la base de datos de TechPowerUp, facilitando la compartición de especificaciones y resultados con otros usuarios, así como la posibilidad de reportar errores a los desarrolladores para mejorar la herramienta.
    
-   ![BotonDescarga](./Imgs/imgGPU-Z/uso4.png)
+     ![BotonDescarga](./Imgs/imgGPU-Z/uso4.png)
 
    ## Conclusion:
    
