@@ -17,7 +17,7 @@ Speccy es una herramienta gratuita que proporciona información general sobre tu
      ### Uso Básico
 2. **Ejecución:**
    
-   * Abre Speccy desde el menú de inicio.
+   * Abrimos Speccy desde el menú de inicio.
 3. **Interfaz:**
    
    * La interfaz principal muestra un resumen de tu sistema.
