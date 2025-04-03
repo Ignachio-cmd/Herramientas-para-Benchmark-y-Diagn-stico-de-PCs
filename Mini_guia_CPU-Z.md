@@ -55,4 +55,8 @@ CPU-Z es una herramienta gratuita que proporciona información detallada sobre t
    
    · La pestaña "Bench" nos sirve para evaluar el rendimiento del procesador, permitiendo pruebas de un solo núcleo y multi núcleo, comparaciones con referencias y pruebas de estrés para verificar la estabilidad de la CPU.
    ![Uso6](./Imgs/imgCPU-Z/uso6.png)
+   
+   ## Conclusion:
+   
+   CPU-Z es una herramienta esencial para cualquier persona que quiera conocer a fondo las especificaciones de su CPU, memoria RAM y placa base. Su interfaz intuitiva y la gran cantidad de información que proporciona la convierten en una herramienta imprescindible para diagnosticar problemas de hardware, verificar la compatibilidad de componentes y realizar overclocking de forma segura.
 
